@@ -1,0 +1,8 @@
+G:\C#\polymorphism_interface\polymorphism_interface\bin\Debug\polymorphism_interface.exe.config
+G:\C#\polymorphism_interface\polymorphism_interface\bin\Debug\polymorphism_interface.exe
+G:\C#\polymorphism_interface\polymorphism_interface\bin\Debug\polymorphism_interface.pdb
+G:\C#\polymorphism_interface\polymorphism_interface\obj\Debug\polymorphism_interface.csproj.AssemblyReference.cache
+G:\C#\polymorphism_interface\polymorphism_interface\obj\Debug\polymorphism_interface.csproj.SuggestedBindingRedirects.cache
+G:\C#\polymorphism_interface\polymorphism_interface\obj\Debug\polymorphism_interface.csproj.CoreCompileInputs.cache
+G:\C#\polymorphism_interface\polymorphism_interface\obj\Debug\polymorphism_interface.exe
+G:\C#\polymorphism_interface\polymorphism_interface\obj\Debug\polymorphism_interface.pdb
